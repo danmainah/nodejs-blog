@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/danmainah/nodejs-blog#readme",
   "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
     "startbootstrap-clean-blog": "^6.0.7"
   }
 }
